@@ -4,7 +4,7 @@ Je suis Jimmy Ramsamynaïck, Je suis actuellement à Epitech technology en 1ere 
 
 ## À propos de moi
 
-Les projets auxquels je participe sont principalement axés sur le développement en langage. J'aime travailler sur les projets proposées par l'école et aussi tester différents langage de programmation sur des projets peronnel.
+Les projets auxquels je participe sont principalement axés sur le développement en langage C. J'aime travailler sur les projets proposées par l'école et aussi tester différents langage de programmation sur des projets peronnel.
 ## Mes projets
 
 ### [Yako bot discord](https://github.com/JimmyRamsamynaick/Yako-bot-discord)

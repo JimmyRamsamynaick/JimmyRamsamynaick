@@ -26,8 +26,8 @@ My Sokoban est une implémentation du jeu classique Sokoban en C. Le jeu se dér
 ## Mes compétences
 
 - Langages de programmation : [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-- Technologies : [![My Skills](https://skillicons.dev/icons?i=clion,vscode)](https://skillicons.dev)
-- Outils et Frameworks : [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+- Technologies : [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+- Outils et Frameworks : [![My Skills](https://skillicons.dev/icons?i=clion,vscode)](https://skillicons.dev)
 
 ## Comment me contacter
 #### cliquez sur les images ci dessous

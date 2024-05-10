@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub !
 
-Je suis Jimmy Ramsamynaïck, Je suis actuellement à Epitech technology en 1ere année. J'ai fais un bac STI2D sin avant de rejoindre cette ecole.
+Je suis Jimmy, Je suis actuellement à Epitech technology en 1ere année. J'ai fais un bac STI2D sin avant de rejoindre cette ecole.
 
 ## À propos de moi
 

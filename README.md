@@ -175,6 +175,12 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br><b>VS Code</b><br>⭐⭐⭐⭐⭐</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=clion" width="50"/><br><b>CLion</b><br>⭐⭐⭐⭐⭐</td>
 </tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="50"/><br><b>Bash</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=windows" width="50"/><br><b>Windows</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="50"/><br><b>PowerShell</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vim" width="50"/><br><b>Vim</b><br>⭐⭐⭐⭐⭐</td>
+</tr>
 </table>
 
 ### 🚀 En Apprentissage
@@ -197,7 +203,7 @@
 ### 🌐 Retrouvez-moi sur
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmybcorpo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmy-ramsamynaick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmyramsamynaick/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JimmyRamsamynaick)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sferTT73tZ)
 
